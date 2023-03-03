@@ -1,0 +1,7 @@
+.main {
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 400px;
+    justify-content: center;
+}
